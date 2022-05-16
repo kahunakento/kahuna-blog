@@ -7,17 +7,17 @@ theme = "cactus"
 [[menu.main]]
 name = "About"
 url = "/"
-weight = 3
+weight = 1
 
 [[menu.main]]
 name = "Writings"
 url = "/posts"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Photos"
 url = "/photos"
-weight = 2
+weight = 3
 
 [markup]
   [markup.tableOfContents]
