@@ -1,7 +1,7 @@
 ---
-title: "My First Photo"
+title: "Photos"
 date: 2022-05-16T10:59:07+02:00
-draft: true
+draft: false
 ---
 
 Hi kids
