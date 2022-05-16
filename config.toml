@@ -75,4 +75,4 @@ weight = 3
   # https://fontawesome.com/icons?d=gallery&s=brands
     [[params.social]]
     name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    link = "kentopan@pm.me"  # no need for "mailto:" in the head
