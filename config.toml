@@ -3,9 +3,6 @@ languageCode = 'en-us'
 title = 'Kahuna Kento'
 theme = "cactus"
 
-googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
-googleAnalytics = "G-RPS5L7R29K"
-
 
 # Main menu which appears below site header.
 [[menu.main]]
